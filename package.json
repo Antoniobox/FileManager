@@ -1,0 +1,17 @@
+{
+  "name": "proyectovisualizacionarchivos",
+  "version": "1.0.0",
+  "description": "Proyecto para visualizar archivos, sus datos y poder subir archivos",
+  "main": "index.js",
+  "scripts": {
+    "test": "jshint .",
+    "start": "electron ."
+  },
+  "author": "Antoniobox",
+  "license": "ISC",
+  "compilerOptions": {
+    "types": [
+      "node"
+    ]
+  }
+}

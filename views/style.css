@@ -1,0 +1,4 @@
+#listadoArchivos {
+    display: flex;
+    flex-direction: column;
+}
