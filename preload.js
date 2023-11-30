@@ -1,5 +1,3 @@
-const { error } = require('node:console')
-
 window.addEventListener('DOMContentLoaded', () => {
     const fs = require('node:fs')
     const divNombres = document.getElementById('listadoNombres')
